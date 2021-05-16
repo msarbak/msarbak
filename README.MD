@@ -1,6 +1,7 @@
-<h1 align="center">I'm <b>Frontend Developer</b> and <i>Designer</i></h1>
+<h1 align="center"> <b>Frontend Developer</b> and <i>Designer</i></h1>
 <p align="center">
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
+   <iframe src="https://giphy.com/embed/LqMn3zJKoi93O" width="480" height="271" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </p>
 
 
