@@ -1,5 +1,5 @@
 <h1 align="center"> <b>Mehmet ŞARBAK</b> </h1>
-<h1 align="center"> <b>Frontend Developer</b> and <i>Designer</i></h1>
+<h1 align="center"> <b>Computer Engineer</b> and <i>YouTuber</i></h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="html" />
