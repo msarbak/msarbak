@@ -13,14 +13,14 @@
 ### Connect with me:
 
 
-[![website](./youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./youtube-light.svg)](https://youtube.com/mehmetsarbak#gh-light-mode-only)
+[![website](./youtube-dark.svg)](https://youtube.com/mehmetsarbak#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./linkedin-light.svg)](https://linkedin.com/in/mehmet-%C5%9Farbak-9841b9210#gh-light-mode-only)
+[![website](./linkedin-dark.svg)](https://linkedin.com/in/mehmet-%C5%9Farbak-9841b9210#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./instagram-light.svg)](https://instagram.com/sarbak.mehmet#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./instagram-dark.svg)](https://instagram.com/sarbak.mehmet#gh-dark-mode-only)
 
 ### Languages and Tools:
 
