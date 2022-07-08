@@ -19,29 +19,19 @@
 [![website](./linkedin-light.svg)](https://linkedin.com/in/mehmet-%C5%9Farbak-9841b9210#gh-light-mode-only)
 [![website](./linkedin-dark.svg)](https://linkedin.com/in/mehmet-%C5%9Farbak-9841b9210#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://instagram.com/sarbak.mehmet#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/sarbak.mehmet#gh-dark-mode-only)
+[![website](./instagram-light.svg)](https://instagram.com/sarbakmehmet#gh-light-mode-only)
+[![website](./instagram-dark.svg)](https://instagram.com/sarbakmehmet#gh-dark-mode-only)
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][]
 <br />
 <br />
 
@@ -50,11 +40,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Web3 101: What is an ERC1155 Smart Contract?](https://www.youtube.com/watch?v=q0M21Gk1ZnI)
-- [Web3 101: What is an ERC721/a Smart Contract?](https://www.youtube.com/watch?v=_XAxn0glwAI)
-- [Web3 101: What Is A Blockchain?](https://www.youtube.com/watch?v=145m3Ev4zbo)
-- [LOOK Stack Overflow Developer Survey 2022 Results Are In!!](https://www.youtube.com/watch?v=KnlXUkdJ6j8)
-- [How To Launch an NFT Collection on Ethereum!! &lpar;Updated Minting dApp&rpar;](https://www.youtube.com/watch?v=-EB2TTQxSWc)
+- [CS50 2022 Pset3 Plurility Solution TÜRKÇE KOD ÇÖZÜMÜ](https://www.youtube.com/watch?v=uadIfj8AdvM&ab_channel=MehmetSarbak)
+- [JAVA Programlamaya dersleri | Ders 6 - this, try-catch, moduler programlama](https://www.youtube.com/watch?v=nliqvPgSVWk&ab_channel=MehmetSarbak)
+- [Web3 101: What Is A Blockchain?](https://www.youtube.com/watch?v=ZU4mrLNpxYg&ab_channel=MehmetSarbak)
+- [C Programlamaya dersleri | Ders 10 - moduler programlama - makefile - klasör düzeni](https://www.youtube.com/watch?v=ZU4mrLNpxYg&ab_channel=MehmetSarbak)
+- [JavaScript Ön yargılarınızı "Uygulamalı" Kıralım! Hover Animasyon Projesi - Motivasyonunuz Artacak!](https://www.youtube.com/watch?v=5jjnHlR4rls&ab_channel=MehmetSarbak)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/mehmetsarbak)
