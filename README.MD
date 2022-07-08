@@ -22,6 +22,7 @@
 [![website](./instagram-light.svg)](https://instagram.com/sarbakmehmet#gh-light-mode-only)
 [![website](./instagram-dark.svg)](https://instagram.com/sarbakmehmet#gh-dark-mode-only)
 
+<!--
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][]
@@ -36,7 +37,7 @@
 <br />
 
 ---
-
+-->
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
